@@ -1,5 +1,5 @@
 # Online-Hotel-Rezervasyon
-Online resurslardan gelen Misafirlerin 100% Kaçinin gelip gelmeyeceğine dair tahmin, Lojistik regresyon 
+Modelimiz, bağımsız değişkenler olarak online kanalların kullanımını kullanarak rezervasyonun iptal olup olmadığını tahmin eder. Bu tahminler, test setinde gerçekleştirilen tahminlerle karşılaştırılarak modelinizin performansı değerlendirilir. Sonuçlar, karmaşıklık matrisi gibi metrikler kullanılarak analiz edilir ve modelinizin ne kadar iyi çalıştığına dair bir fikir edinilir. Bu şekilde, hangi online kanalların iptal olma olasılığını artırdığı veya azalttığı gibi önemli bilgiler elde edilebilir. 
 
 
 
